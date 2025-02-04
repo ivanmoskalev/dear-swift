@@ -1,5 +1,5 @@
 import Testing
-@testable import XnSwift
+@testable import DearSwift
 
 @Test func example() async throws {
 }

@@ -1,5 +1,5 @@
 import XCTest
-import XnSwift
+import DearSwift
 
 final class PerformanceTests: XCTestCase {
     func testExample() {
