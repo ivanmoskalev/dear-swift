@@ -1,4 +1,4 @@
-# DearSwift
+# dear-swift
 > this library is part of [dear](https://github.com/ivanmoskalev/dear) suite
 
 Swift language extensions and algorithms that are too general to warrant their own packages. 
@@ -8,7 +8,7 @@ Swift language extensions and algorithms that are too general to warrant their o
 DearSwift is distributed via Swift Package Manager.
 
 ```swift
-.package(url: "https://github.com/ivanmoskalev/DearSwift.git", from: "1.0.0")
+.package(url: "https://github.com/ivanmoskalev/dear-swift.git", from: "1.0.0")
 ```
 
 ## Contributing
