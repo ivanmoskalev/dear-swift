@@ -51,7 +51,7 @@ public extension Dear {
 
 // MARK: - Dear.Comparable
 
-extension Comparable {
+public extension Comparable {
     /// Returns the value clamped to the provided closed range.
     ///
     /// - Parameter range: The closed range within which to clamp the value.
